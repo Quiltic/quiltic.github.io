@@ -1,5 +1,5 @@
 {
-  "name": "@quiltic.github.io",
+  "name": "@quiltic/index",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
   "version": "4.5.2",
