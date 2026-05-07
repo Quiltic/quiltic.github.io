@@ -1,9 +1,8 @@
 {
-  "name": "@quiltic/index",
+  "name": "@quiltic/quartz",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
   "version": "4.5.2",
-  "type": "module",
   "author": "Quiltic <joshua.mark.zack@gmail.com>",
   "license": "MIT",
   "homepage": "quiltic.github.io",
