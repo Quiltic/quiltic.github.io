@@ -11,6 +11,7 @@ This project is focused around the concept of having multiple Mixed Reality (MR)
 # Intro
 
 - Uses Mixed Reality with the Meta Quest system for passthrough.
+- Written in both Unreal and Unity for quality comparison.
 - Simple interface for ease of use.
 - Current scope is to demonstrate geological specimens with no physical objects to allow for easier viewing and explanations.
 - Designed for simple setup, connection, augmentation, and usage.

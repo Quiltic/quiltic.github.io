@@ -70,7 +70,7 @@ Spend ⚂; Roll Awareness. Partial (7-9): Reveal Obscured targets Near you and a
 - What happened here?
 
 ### Investigate
-Pick an object or specific area. Roll Ingenuity. Presence. Partial (7-9): Ask 1 question below. Success (10+): Ask up to 2 questions below.
+Pick an object or specific area. Roll Ingenuity. Partial (7-9): Ask 1 question below. Success (10+): Ask up to 2 questions below.
 - Is their anything I would know about this?
 - What can it do?
 - Where did ___ go?
@@ -296,7 +296,7 @@ Lastly make, or pick, a Weapon and Armor.
 
 ## Playbooks
 
-When making a 
+When making a character you need to pick one of the following playbooks to use. You are not limited to using only 1 playbook and may take multiple if you so choose.
 
 [Wander's Way Playbooks](playbooks.md)
 

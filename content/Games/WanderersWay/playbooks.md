@@ -75,7 +75,7 @@ When you create a character and pick a playbook you gain the first Trait listed.
 
 **Super Heat** - Spend ⚂⚂ and 1 Strain to make a metal object Close to you glow white hot for a few minutes. You get +1 to Tinker on the object, and anything (other than you) that touches it gains 2 Burn once a turn. 
 
-**?** -
+**Replicate** - Spend a long time, possibly multiple days, and potently a lot of money copying an item you have possession of. (GM will determine both time and cost to replicate the item.) If you want to make a forgery it will take less time but if its a contraption or machine it wont work. A creature may do an Investigate contest against you to discern if it's a forgery.
 ------------------
 
 
@@ -95,7 +95,7 @@ When you create a character and pick a playbook you gain the first Trait listed.
 
 **Parkourist** - You can run along walls as if it was normal terrain. You cannot stop while on a wall otherwise you will fall to the ground. Additionally, when you Jump add 2 to the distance jumped.
 
-**Too Many Pockets** - Pocket dimension?
+**Too Many Pockets** - Somehow you always have a spot to put stuff. You can carry a ludicrous amount of small things on you and can do Hide rolls to make things on you become Hidden from others.
 
 **Just Kick It** - You may use Finesse when Tinkering to hack or unlock something, even without tools.
 
@@ -111,7 +111,7 @@ When you create a character and pick a playbook you gain the first Trait listed.
 > *A rare breed. Traveling Botanists are highly coveted for food and healing.*
 
 
-**?** - Sometin'
+**Nature Reserve** - At the start of your turn you may pick a point Nearby. Whenever something moves within Reach of that point, or at the start of your turn, you may spend a Locked Dice to activate a single target Art against them. Use 3+# for any sums. (This Art still costs Strain.)
 > **^** *This Trait is free when you take the Botanist Playbook.* **^**
 
 
@@ -208,9 +208,9 @@ When you create a character and pick a playbook you gain the first Trait listed.
 
 **Cleanse the Unworthy** - Spend ⚂⚂ and 1 Strain to do a Close Weapon Attack. The Attack gains: On Hit, the target is Marked until the beginning of your next turn and gains 3 Burn.
 
-**Miracle** - Somtin
+**Miracle** - Once in a while, you may spend ⚂⚂⚂⚂ and 4 Strain to call forth a Miracle. Your GM determines what happens and it must only be beneficial to you and your group. This may auto pass a Check, activate an Art, make something almost impossible happen, ect. 
 
-**Intervention** - Only once, when next you die instead you fall asleep and are Stabilized. Afterwards cross out this Trait.
+**Intervention** - Only once, when next you die instead you fall asleep and are Stabilized. *Afterwards, cross out this Trait*.
 
 ---------
 
