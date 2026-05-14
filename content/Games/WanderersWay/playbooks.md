@@ -76,6 +76,7 @@ When you create a character and pick a playbook you gain the first Trait listed.
 **Super Heat** - Spend ⚂⚂ and 1 Strain to make a metal object Close to you glow white hot for a few minutes. You get +1 to Tinker on the object, and anything (other than you) that touches it gains 2 Burn once a turn. 
 
 **Replicate** - Spend a long time, possibly multiple days, and potently a lot of money copying an item you have possession of. (GM will determine both time and cost to replicate the item.) If you want to make a forgery it will take less time but if its a contraption or machine it wont work. A creature may do an Investigate contest against you to discern if it's a forgery.
+
 ------------------
 
 
